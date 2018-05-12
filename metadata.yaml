@@ -1,10 +1,16 @@
 _repo: Transfer-Point_51115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51115-h/images/cover.jpg
 creator:
   author:
     agent_name: Boucher, Anthony
     gutenberg_agent_id: '46245'
     url: http://www.gutenberg.org/2009/agents/46245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51115#Transfer-Point
 gutenberg_issued: '2016-02-02'
 gutenberg_type: Text
 identifiers:
